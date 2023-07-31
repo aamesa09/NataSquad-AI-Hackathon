@@ -1,5 +1,5 @@
 # Retención de clientes
-En este repositorio, hemos realizado un análisis exploratorio de datos de extremo a extremo e identificado las características de los clientes que tienen más probabilidades de abandonar, y las he usado sabiamente para crear e implementar modelos.
+En este repositorio, se ha realizado un análisis exploratorio de datos de extremo a extremo e identificado las características de los clientes que tienen más probabilidades de abandonar, y las he usado sabiamente para crear e implementar modelos.
 
 
 ### 🟢 Para EDA, consulte: EDA.ipynb
